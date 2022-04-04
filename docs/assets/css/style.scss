@@ -7,7 +7,7 @@ small {
   font-size:12px;
 }
 
-@media () {
+@media (min-height: 100px) {
   nav {
     width: 230px;
     position: fixed;
