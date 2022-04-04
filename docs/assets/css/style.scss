@@ -15,7 +15,8 @@ nav {
   margin-left:-580px;
   text-align: left;
 
-  max-height: 500px;
+  max-height: 600px;
+  height: auto;
   overflow-y: auto;
 
   ul {
@@ -76,3 +77,6 @@ nav {
   }
 }
 
+footer {
+  display: none;
+}
