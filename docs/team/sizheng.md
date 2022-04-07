@@ -1,7 +1,7 @@
 # Wan Si Zheng - Project Portfolio Page
 
 ## Project: PlanITarium
-<div style="text-align: justify">
+
 <!-- this is placeholder description -->
 PlanITarium is a CLI application that helps you and your family to track your finances. It is written in Java, and has
 about 9k LoC.
@@ -12,7 +12,6 @@ Given below are my contributions to the project.
 * **Code
   Contributed**: [RepoSense Link](https://nus-cs2113-ay2122s2.github.io/tp-dashboard/?search=T10&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=&groupSelect=groupByRepos&breakdown=true&checkedFileTypes=docs~functional-code~test-code~other&since=2022-02-18&tabOpen=true&tabType=authorship&tabAuthor=1szheng&tabRepo=AY2122S2-CS2113T-T10-2%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other&authorshipIsBinaryFileTypeChecked=false)
 
-<p></p>
 
 * **New Feature**: Added user input parsing.
     * Functionality: The parser methods that retrieves the parameters from the user's input and assists in correcting
@@ -22,8 +21,7 @@ Given below are my contributions to the project.
     * Highlights: This feature required an in-depth analysis on the user's possible undesirable inputs and deciding if
       such input should be blocked or given a warning. Its implementation then required much research and testing (e.g.
       learning regex) as there exists methods provided by Java that are misleading in its description and usage.
-
-<p></p>
+    
 
 * **New Feature**: Added user input validation.
     * Functionality: The parser methods that helps to ensure that the user's inputs are valid.
@@ -32,7 +30,6 @@ Given below are my contributions to the project.
     * Highlights: This feature requires information and cooperation from the various command implementations, and
       affects future implementations in the same manner.
 
-<p></p>
 
 * **New Feature**: Added category enumeration.
     * Functionality: The enumeration of expenditure categories that allow users to tag their expenditures by using the
@@ -43,7 +40,6 @@ Given below are my contributions to the project.
     * Highlights: This enhancement affects future commands or features that wish to extend the usage for the
       categorizing of expenditures.
 
-<p></p>
 
 * **Enhancements to Existing Features**:
     * Researched and implemented method for testing prints via IO redirection:
@@ -51,8 +47,7 @@ Given below are my contributions to the project.
     * Updated error messages to be more descriptive:
       [#231](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/231/files#diff-f409e5bd3cb2421cd456383eaacbf733bb6e8663452dacc719d717a7b809f240)
     * Suggested tests for features implemented by team members to increase test coverage.
-
-<p></p>
+    
 
 * **Documentation**:
     * User Guide (UG):
@@ -88,8 +83,7 @@ Given below are my contributions to the project.
         * Helped to standardize diagram themes:
           [#109](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files),
           [#222](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files)
-
-<p></p>
+        
 
 * **Team-based Contribution**:
     * Finalized and released `v2.0` on GitHub during a Team Meeting.
@@ -102,7 +96,6 @@ Given below are my contributions to the project.
       [#124](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/124),
       [#237](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/237)
 
-<p></p>
 
 * **Community-based Contribution**:
     * Above average number of review comments for iP PR peer review:
@@ -110,4 +103,3 @@ Given below are my contributions to the project.
       [PR60](https://github.com/nus-cs2113-AY2122S2/ip/pull/60),
       [PR74](https://github.com/nus-cs2113-AY2122S2/ip/pull/74)
     * Above average number of bugs found for [PE-D](https://github.com/1szheng/ped/issues).
-</div>
