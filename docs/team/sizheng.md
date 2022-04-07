@@ -4,7 +4,7 @@
 
 <!-- this is placeholder description -->
 PlanITarium is a CLI application that helps you and your family to track your finances. It is written in Java, and has
-about 9k LoC.
+about 9k LoC. 2
 <!-- this is placeholder description -->
 
 Given below are my contributions to the project.
