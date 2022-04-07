@@ -4,7 +4,7 @@
 
 <!-- this is placeholder description -->
 PlanITarium is a CLI application that helps you and your family to track your finances. It is written in Java, and has
-about 9k LoC. 2
+about 9k LoC. 3
 <!-- this is placeholder description -->
 
 Given below are my contributions to the project.
@@ -23,12 +23,14 @@ Given below are my contributions to the project.
       learning regex) as there exists methods provided by Java that are misleading in its description and usage.
     
 
+
 * **New Feature**: Added user input validation.
     * Functionality: The parser methods that helps to ensure that the user's inputs are valid.
     * Justification: This feature improves the product as a user can make mistakes when entering commands. Such methods
       are consolidated in the Parser class for ease of access, modification and addition by developers.
     * Highlights: This feature requires information and cooperation from the various command implementations, and
       affects future implementations in the same manner.
+
 
 
 * **New Feature**: Added category enumeration.
@@ -41,6 +43,7 @@ Given below are my contributions to the project.
       categorizing of expenditures.
 
 
+
 * **Enhancements to Existing Features**:
     * Researched and implemented method for testing prints via IO redirection:
       [#136](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/136/files#diff-caeba67935d0d3100de8785480552427170cb99b6af6c254616486b0bb870335)
@@ -48,6 +51,7 @@ Given below are my contributions to the project.
       [#231](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/231/files#diff-f409e5bd3cb2421cd456383eaacbf733bb6e8663452dacc719d717a7b809f240)
     * Suggested tests for features implemented by team members to increase test coverage.
     
+
 
 * **Documentation**:
     * User Guide (UG):
@@ -85,6 +89,7 @@ Given below are my contributions to the project.
           [#222](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files)
         
 
+
 * **Team-based Contribution**:
     * Finalized and released `v2.0` on GitHub during a Team Meeting.
     * Helped to tag milestones and labels for team on occasions.
@@ -95,6 +100,7 @@ Given below are my contributions to the project.
       [#112](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/112),
       [#124](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/124),
       [#237](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/237)
+
 
 
 * **Community-based Contribution**:
