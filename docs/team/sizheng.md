@@ -1,11 +1,12 @@
-# Wan Si Zheng - Project Portfolio Page
+# Wan Si Zheng - Project Portfolio Page2
 
 ## Project: PlanITarium
 
 PlanITarium is an application that assists you and your family in managing your finances, optimized for use on the
-Command Line Interface (CLI). PlanITarium is a CLI application that is written in and meant to be run on `Java 11`.
+Command Line Interface (CLI). You can use it to view your monthly financial status, logical group family members for
+better management and categorise your expenditure. PlanITarium is written in and meant to be run on `Java 11`.
 
-## Summary of Contributions
+### Summary of Contributions
 
 * **Code
   Contributed**: [RepoSense Link](https://nus-cs2113-ay2122s2.github.io/tp-dashboard/?search=T10&sort=groupTitle&sortWithin=title&timeframe=commit&mergegroup=&groupSelect=groupByRepos&breakdown=true&checkedFileTypes=docs~functional-code~test-code~other&since=2022-02-18&tabOpen=true&tabType=authorship&tabAuthor=1szheng&tabRepo=AY2122S2-CS2113T-T10-2%2Ftp%5Bmaster%5D&authorshipIsMergeGroup=false&authorshipFileTypes=docs~functional-code~test-code~other&authorshipIsBinaryFileTypeChecked=false)
@@ -44,6 +45,10 @@ Command Line Interface (CLI). PlanITarium is a CLI application that is written i
 <p></p>
 
 * **Enhancements to Existing Features**:
+    * Added JUnit tests for `Parser`, `ParserUtility` and `Category`:
+      [#94](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/96/files),
+      [#116](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/116/files),
+      [131](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/131/files#diff-bbaf65121d975e9f0cc1284d06e75e12c83ff0f7b8291fd70888a08804575e88)
     * Researched and implemented method for testing prints via IO redirection:
       [#136](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/136/files#diff-caeba67935d0d3100de8785480552427170cb99b6af6c254616486b0bb870335)
     * Updated error messages to be more descriptive:
@@ -74,13 +79,13 @@ Command Line Interface (CLI). PlanITarium is a CLI application that is written i
         * Added administrative descriptions:
           [#218](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/218/files),
           [#222](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/222/files)
-        * Added documentation for
+        * Added documentation and diagrams for
           the [Architecture Design](https://ay2122s2-cs2113t-t10-2.github.io/tp/DeveloperGuide.html#architecture)
           section:
           [#109](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files),
           [#131](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/131/files),
           [#231](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/231/files)
-        * Added documentation for
+        * Added documentation and diagrams for
           the [Parser Component Design](https://ay2122s2-cs2113t-t10-2.github.io/tp/DeveloperGuide.html#parser-component)
           section:
           [#131](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/131/files),
