@@ -42,3 +42,73 @@ Given below are my contributions to the project.
       customized categories.
     * Highlights: This enhancement affects future commands or features that wish to extend the usage for the
       categorizing of expenditures.
+
+<p></p>
+
+* **Enhancements to Existing Features**:
+    * Researched and implemented method for testing prints via IO redirection:
+      [#136](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/136/files#diff-caeba67935d0d3100de8785480552427170cb99b6af6c254616486b0bb870335)
+    * Updated error messages to be more descriptive:
+      [#231](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/231/files#diff-f409e5bd3cb2421cd456383eaacbf733bb6e8663452dacc719d717a7b809f240)
+    * Suggested tests for features implemented by team members to increase test coverage.
+
+<p></p>
+
+* **Documentation**:
+    * User Guide (UG):
+        * Added documentation for `addin` and `deletein` beyond the base skeleton:
+          [#136](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/136/files#diff-b50feaf9240709b6b02fb9584696b012c2a69feeba89e409952cc2f401f373fb)
+        * Added administrative
+          descriptions: [#136](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/136/files#diff-b50feaf9240709b6b02fb9584696b012c2a69feeba89e409952cc2f401f373fb)
+        * Added aesthetic changes for format and styling:
+          [#136](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/136/files#diff-b50feaf9240709b6b02fb9584696b012c2a69feeba89e409952cc2f401f373fb)
+          , [#161](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/161)
+          , [#218](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/218/files#diff-b50feaf9240709b6b02fb9584696b012c2a69feeba89e409952cc2f401f373fb)
+        * Added parameters glossary under Features section:
+          [#161](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/161/files#diff-b50feaf9240709b6b02fb9584696b012c2a69feeba89e409952cc2f401f373fb)
+
+    <br/>
+  
+    * Developer Guide (DG):
+        * Added base format for `Design` and `Implementation` sections:
+          [#109](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files),
+          [#111](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/111/files)
+        * Added administrative descriptions:
+          [#218](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/218/files),
+          [#222](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/222/files)
+        * Added documentation for
+          the [Architecture Design](https://ay2122s2-cs2113t-t10-2.github.io/tp/DeveloperGuide.html#architecture)
+          section:
+          [#109](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files),
+          [#131](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/131/files)
+        * Added documentation for
+          the [Parser Component Design](https://ay2122s2-cs2113t-t10-2.github.io/tp/DeveloperGuide.html#parser-component)
+          section:
+          [#131](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/131/files),
+          [#145](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/145/files),
+          [#231](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/231/files)
+        * Helped to standardize diagram themes:
+          [#109](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files),
+          [#222](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/109/files)
+
+<p></p>
+
+* **Team-based Contribution**:
+    * Finalized and released `v2.0` on GitHub during a Team Meeting.
+    * Helped to tag milestones and labels for team on occasions.
+    * Provided offline assistance to teammates.
+    * PRs reviewed (with non-trivial comments):
+      [#52](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/51),
+      [#79](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/79),
+      [#112](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/112),
+      [#124](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/124),
+      [#237](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/237)
+
+<p></p>
+
+* **Community-based Contribution**:
+    * Above average number of review comments for iP PR peer review:
+      [PR19](https://github.com/nus-cs2113-AY2122S2/ip/pull/19),
+      [PR60](https://github.com/nus-cs2113-AY2122S2/ip/pull/60),
+      [PR74](https://github.com/nus-cs2113-AY2122S2/ip/pull/74)
+    * Above average number of bugs found for [PE-D](https://github.com/1szheng/ped/issues).
