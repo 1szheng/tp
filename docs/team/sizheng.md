@@ -1,4 +1,4 @@
-# Wan Si Zheng - Project Portfolio Page
+# Wan Si Zheng - Project Portfolio Page2
 
 ## Project: PlanITarium
 
@@ -67,7 +67,7 @@ Given below are my contributions to the project.
         * Added parameters glossary under Features section:
           [#161](https://github.com/AY2122S2-CS2113T-T10-2/tp/pull/161/files#diff-b50feaf9240709b6b02fb9584696b012c2a69feeba89e409952cc2f401f373fb)
 
-    <br/>
+    <p></p>
   
     * Developer Guide (DG):
         * Added base format for `Design` and `Implementation` sections:
